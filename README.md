@@ -1,4 +1,4 @@
-# fyp2
+# Plate Recognition
 
 A new Flutter project.
 
